@@ -1,4 +1,4 @@
-# ✦ Instagram Studio 2026
+# ✦ IG Studio 2026
 
 A unified desktop application for downloading, viewing, exporting, and tracking your Instagram data - all running locally on your machine, no third-party services involved.
 
